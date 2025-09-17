@@ -124,3 +124,4 @@
 /Users/csx/build/csharp-di/DependencyInjection/obj/Debug/net10.0/staticwebassets.build.endpoints.json
 /Users/csx/build/csharp-di/DependencyInjection/obj/Debug/net10.0/swae.build.ex.cache
 /Users/csx/build/csharp-di/DependencyInjection/obj/Debug/net10.0/Dependen.428E3D85.Up2Date
+/Users/csx/build/csharp-di/DependencyInjection/obj/Debug/net10.0/DependencyInjection.sourcelink.json
